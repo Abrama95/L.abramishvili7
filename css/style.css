@@ -1,0 +1,145 @@
+body{
+    font-family: 'Noto Sans Display', sans-serif;
+}
+header{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    justify-content: space-around;
+    margin-top: 100px;
+    }
+.ul{
+    display: flex;
+}
+.list{
+    margin:20px
+}
+
+/* section 1 */
+section{
+    padding-top: 300px;
+    
+}
+
+.provide{
+    font-size: 60px;
+    margin-left:290px ;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center; 
+}
+.text1{
+     font-size: 19px;
+    margin-top: 42px;
+    margin-left: 290px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center; 
+    }
+   .wavehand{
+    width: 264px;
+    height: 77px;
+    background-color: #3D37F1;
+    border-radius: 38px;
+    margin-top: 120px;
+    margin-left: 290px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 23px;
+    color: white; 
+}  
+
+ .handbox{
+   margin-right: 28px;
+} 
+
+
+
+
+/* section 2 */
+.container{
+    width: 1170px;
+    margin: 0 auto;
+
+}
+.text{
+    width: 720px;
+    margin: 0 auto;
+    text-align: center;
+}
+.ourserv{
+    color: #3D37F1;
+    font-size: 20px;
+    
+}
+.weprovide{
+    font-size: 40px;
+    color:#5A5454;
+    margin-top: 17px;
+}
+.ourcommitment{
+    font-size: 18px;
+    color: #747474;
+    margin-top: 21px;
+    margin-bottom: 67px;
+}
+
+.box{
+    width: 370px;
+    height: 451px;
+    background-color: #FBBA77;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.red{
+    background-color: #FBBA77;
+}
+.yellow{
+    background-color: #41EAE3;
+}
+.green{
+    background-color: #69529F;
+}
+.blue{
+    background-color: #4386D2;
+}
+.blue2{
+    background-color: #A5A2F6;
+}
+.blue3{
+    background-color: #FF8088;
+}
+.line1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+.line2{
+    display: flex;
+    justify-content: space-between;
+    }
+
+.whiteblock1{
+        width: 131px;
+        height: 45px;
+        background-color: white;
+        border-radius: 50%;
+        display: flex;
+        justify-content:center ;
+        align-items: center;
+        margin-top: 11px;
+    }
+.boxtext{
+    width: 328px;
+    text-align: center;
+    margin-top: 13px;
+    }
+    
+.website{
+    margin-top: 57px;
+    font-size: 22px;
+} 
